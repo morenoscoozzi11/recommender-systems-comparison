@@ -1,0 +1,2 @@
+Model,Precision@10,Recall@10,F1@10,NDCG@10,RMSE,MAE,Execution_Time_s,Num_Predictions
+Scikit-Learn (CBF-TF-IDF),0.693,0.4915,0.5488,0.6894,1.0861,0.7723,0.55,790

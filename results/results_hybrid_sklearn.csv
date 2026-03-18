@@ -1,0 +1,2 @@
+Model,Precision@10,Recall@10,F1@10,NDCG@10,RMSE,MAE,Execution_Time_s,Num_Predictions
+Hybrid-sklearn (CF+CBF),0.0023,0.0233,0.0042,0.0116,1.8338,1.6229,0.13,430

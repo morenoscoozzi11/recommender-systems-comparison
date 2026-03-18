@@ -1,0 +1,2 @@
+Model,Precision@10,Recall@10,F1@10,NDCG@10,RMSE,MAE,Execution_Time_s,Num_Predictions
+Gensim (CBF-Doc2Vec),0.6953,0.4938,0.5512,0.6909,1.1304,0.7777,0.79,790

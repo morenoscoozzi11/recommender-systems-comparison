@@ -1,0 +1,2 @@
+Model,Precision@10,Recall@10,F1@10,NDCG@10,RMSE,MAE,Execution_Time_s,Num_Predictions
+TensorFlow (Hybrid-DL),0.1333,0.7692,0.2196,0.7564,1.0124,0.8346,2.1,71

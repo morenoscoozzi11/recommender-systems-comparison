@@ -1,0 +1,18 @@
+# Recommender Systems Comparison
+# Tested on Python 3.12
+
+# Core
+numpy>=2.0
+pandas>=2.0
+scikit-learn>=1.4
+
+# Content-Based (Doc2Vec)
+gensim>=4.3
+
+# Deep Learning
+# IMPORTANT: use tensorflow==2.20.0, not 2.21 (conflicts with tf-keras)
+tensorflow==2.20.0
+tf-keras>=2.20,<2.21
+
+# Utilities
+scipy>=1.10
